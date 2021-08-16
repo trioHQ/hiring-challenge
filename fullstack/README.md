@@ -2,7 +2,7 @@
 
 Build an application, using the languange and framework of your choice, that will consume and present the information from Trio API. The application should follow this business requirements:
 
-* Should connect with the Trio API, using the credentials available in the [secrets file](secrets.yaml);
+* Should connect with the Trio API, using the sandbox environment. Credentials are available in the [secrets file](secrets.yaml);
 * Should offer an interface to list all the available institutions;
 * Should offer an interface to select the desired institution and collection the bank credentials, test credentials are available in the [secrets file](secrets.yaml);
 * Should offer an interface to list all accounts linked with credentials;
