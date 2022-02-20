@@ -4,7 +4,7 @@ Build an application, using the languange and framework of your choice, that wil
 
 * Should connect with the Trio API, using the sandbox environment. Credentials are available in the [secrets file](secrets.yaml);
 * Should offer an interface to list all the available institutions;
-* Should offer an interface to select the desired institution and collection the bank credentials, test credentials are available in the [secrets file](secrets.yaml);
+* Should offer an interface to select the desired institution and create a connection, test credentials are available [here](https://developers.trio.com.br/docs/tools-sandbox);
 * Should offer an interface to list all accounts linked with credentials;
 * Should offer an interface to list all the transactions linked with account.
 
